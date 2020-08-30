@@ -1,4 +1,5 @@
-### Hi there 👋
+![mad4j](mad4j.png)
+
 
 <!--
 **mad4j/mad4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
