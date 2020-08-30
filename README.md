@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="mad4j-logo.png" width="160px" title="mad4j">
+   <img src="https://github.com/mad4j/mad4j/blob/master/mad4j-logo.png" width="160px" title="mad4j">
 </div>
 
 <!--
