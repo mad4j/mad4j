@@ -1,4 +1,4 @@
-![mad4j](mad4j.png)
+![mad4j](mad4j-logo.png)
 
 
 <!--
