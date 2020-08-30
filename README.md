@@ -1,5 +1,7 @@
-![mad4j](mad4j-logo.png)
 
+<div align="center">
+   <img src="mad4j-logo.png" width="160px" title="mad4j">
+</div>
 
 <!--
 **mad4j/mad4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
